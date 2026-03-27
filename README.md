@@ -56,6 +56,7 @@ This project is the result of the vision and work of:
 
 * **[Francisco Barguil](https://www.linkedin.com/in/franciscobarguil/)**
 * **[Fernando Vanini](https://www.linkedin.com/in/fernando-vanini-257354/)**
+* **[Rogerio Drummond](https://www.linkedin.com/in/rog%C3%A9rio-drummond-94a5a97/)**
 
 ---
 
